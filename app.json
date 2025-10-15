@@ -12,11 +12,11 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "8088395100:AAE5TNYIewM4NpJ3ydpFicwgLDmt2Rq4WAs"
         },
         "DEFAULT_SEARCH_METHOD": {
             "description": "The default method to use for inline search. Possible values are jw, imdb & omdb.",
-            "value": ""
+            "value": "imdb"
         }
     },
     "buildpacks": [
