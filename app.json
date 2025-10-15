@@ -11,7 +11,7 @@
     "success_url": "https://telegram.dog/Jisin0",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "8088395100:AAE5TNYIewM4NpJ3ydpFicwgLDmt2Rq4WAs",
             "value": ""
         },
         "DEFAULT_SEARCH_METHOD": {
